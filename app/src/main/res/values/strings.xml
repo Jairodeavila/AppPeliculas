@@ -1,0 +1,25 @@
+<resources>
+    <string name="splash_name">IMDb</string>"
+    <string name="et_user">Juanpredro@Gmail.com</string>
+    <string name="tv_user">User</string>
+    <string name="tv_password">Password</string>
+    <string name="et_password">********</string>
+    <string name="tv_rec_password">Olvidaste tu contraseña?</string>
+    <string name="bottom_login">Login</string>
+    <string name="other_login">O puedes ingrear con</string>
+    <string name="no_account">No tienes una cuenta?</string>">
+    <string name="register">Registrate</string>
+    <string name="invitado">Continuar como invitado</string>
+
+
+    //////////////////////////////////////////////////////////////////////Register
+    <string name="tv_register">Crear una cuenta</string>
+    <string name="et_create_email">Email</string>
+    <string name="et_create_name">Nombre</string>
+    <string name="et_create_password">*******</string>
+    <string name="tv_suger_password">La contraseña debe tener al menos 8 caracteres</string>
+    <string name="bottom_aceptar">Aceptar</string>
+    <string name="release_data">Fecha:</string>
+    <string name="vote_average">Rating</string>
+
+</resources>
